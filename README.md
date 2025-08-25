@@ -1,6 +1,6 @@
 # Clicker Prototype — Unity 6 + Leopotam.EcsLite
 Simple clicker prototype built with Unity 6 and Leopotam.EcsLite.
-Player buys and upgrades businesses that generate income over time. Project designed to match the task requirements (ScriptableObjects for configs, names in a separate SO, saving/loading, ECS-only logic with Leopotam.EcsLite, UI bridge MonoBehaviours).
+Player buys and upgrades businesses that generate income over time. Project designed to match the task requirements (ScriptableObjects for configs, names in a separate SO, saving/loading, ECS-only logic with Leopotam.EcsLite).
 
 # Unity & Packages
 * Minimum required version is Unity 2022
